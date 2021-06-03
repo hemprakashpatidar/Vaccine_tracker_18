@@ -42,7 +42,7 @@ def check(pincode, date):
     print("Mil gayi vaccine")
     print(dose)
 
-pincode="465445"
+pincode="452001"
 date="03-06-2021"
 
 check(pincode, date)
