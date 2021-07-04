@@ -39,7 +39,7 @@ def check(pincode, date):
   if (dose==-1):
     print("Try again")
   else:
-    print("Mil gayi vaccine")
+    print("Found Found Found")
     print(dose)
 
 pincode="452001"
